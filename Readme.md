@@ -13,5 +13,4 @@ Se va a trabajar con el lenguaje Python v3.
 Jorge Alaiza San Cristóbal (único integrante) [jalaiza]
 ```
 
-## Ficheros del código fuente
 
